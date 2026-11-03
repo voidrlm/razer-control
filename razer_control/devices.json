@@ -1,0 +1,9698 @@
+{
+ "devices": {
+  "0013": {
+   "features": {
+    "dpi_byte": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 4000,
+   "name": "Razer Orochi 2011",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    },
+    "scroll": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "0015": {
+   "features": {
+    "dpi_byte": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 5600,
+   "name": "Razer Naga",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "backlight": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    },
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    },
+    "scroll": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "0016": {
+   "available_dpi": [
+    450,
+    900,
+    1800,
+    3500
+   ],
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 3500,
+   "name": "Razer DeathAdder 3.5G",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    },
+    "scroll": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "001f": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi_byte": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 5600,
+   "name": "Razer Naga Epic",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum"
+     ]
+    }
+   }
+  },
+  "0020": {
+   "features": {
+    "dpi_byte": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 1800,
+   "name": "Razer Abyssus 1800",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "0024": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 6400,
+   "name": "Razer Mamba 2012 (Wired)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum"
+     ]
+    }
+   }
+  },
+  "0025": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 6400,
+   "name": "Razer Mamba 2012 (Wireless)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum"
+     ]
+    }
+   }
+  },
+  "0029": {
+   "available_dpi": [
+    450,
+    900,
+    1800,
+    3500
+   ],
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 3500,
+   "name": "Razer DeathAdder 3.5G Black",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 600
+  },
+  "002e": {
+   "features": {
+    "dpi_byte": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 5600,
+   "name": "Razer Naga 2012",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "backlight": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    },
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    },
+    "scroll": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "002f": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 6400,
+   "name": "Razer Imperator 2012",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    },
+    "scroll": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "0032": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 8200,
+   "name": "Razer Ouroboros",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "0034": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 8200,
+   "name": "Razer Taipan",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    },
+    "scroll": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "0036": {
+   "features": {
+    "dpi_byte": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 5600,
+   "name": "Razer Naga Hex (Red)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    },
+    "scroll": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "0037": {
+   "features": {
+    "dpi_byte": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "standard_led"
+   },
+   "max_dpi": 6400,
+   "name": "Razer DeathAdder 2013",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "breath_single",
+      "blinking"
+     ]
+    },
+    "scroll": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "breath_single",
+      "blinking"
+     ]
+    }
+   }
+  },
+  "0038": {
+   "features": {
+    "dpi_byte": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 1800,
+   "name": "Razer DeathAdder 1800",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "0039": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 6400,
+   "name": "Razer Orochi 2013",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "scroll": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "003e": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "standard_led"
+   },
+   "max_dpi": 8200,
+   "name": "Razer Naga Epic Chroma (Wired)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "backlight": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single"
+     ]
+    }
+   }
+  },
+  "003f": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "standard_led"
+   },
+   "max_dpi": 8200,
+   "name": "Razer Naga Epic Chroma (Wireless)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "backlight": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single"
+     ]
+    }
+   }
+  },
+  "0040": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 8200,
+   "name": "Razer Naga 2014",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "backlight": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    },
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    },
+    "scroll": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "0041": {
+   "features": {
+    "dpi_byte": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 5600,
+   "name": "Razer Naga Hex",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    },
+    "scroll": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "0042": {
+   "features": {
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "name": "Razer Abyssus",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "0043": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "standard_led"
+   },
+   "max_dpi": 10000,
+   "name": "Razer DeathAdder Chroma",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single",
+      "blinking"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single",
+      "blinking"
+     ]
+    }
+   }
+  },
+  "0044": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_matrix",
+    "matrix_led": 5,
+    "zone": "standard_matrix"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Mamba Chroma (Wired)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "backlight": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0045": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "dock",
+    "matrix": "standard_matrix",
+    "matrix_led": 5,
+    "zone": "standard_matrix"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Mamba Chroma (Wireless)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "backlight": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0046": {
+   "features": {
+    "dpi": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_matrix",
+    "matrix_led": 5,
+    "zone": "standard_matrix"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Mamba Tournament Edition",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "backlight": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0048": {
+   "features": {
+    "dpi": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_matrix",
+    "matrix_led": 5,
+    "zone": "standard_matrix"
+   },
+   "max_dpi": 8200,
+   "name": "Razer Orochi (Wired)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "backlight": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "004c": {
+   "features": {
+    "dpi": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_matrix",
+    "matrix_led": 5,
+    "zone": "standard_matrix"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Diamondback Chroma",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "backlight": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "004f": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "standard_led"
+   },
+   "max_dpi": 2000,
+   "name": "Razer DeathAdder 2000",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "breath_mono",
+      "on"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "breath_mono",
+      "on"
+     ]
+    }
+   }
+  },
+  "0050": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Naga Hex V2",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "backlight": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0053": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Naga Chroma",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "backlight": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0054": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "standard_led"
+   },
+   "max_dpi": 3500,
+   "name": "Razer DeathAdder 3500",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "breath_single",
+      "blinking"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "breath_single",
+      "blinking"
+     ]
+    }
+   }
+  },
+  "0059": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Lancehead (Wired)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "left": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "right": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "005a": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Lancehead (Wireless)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "left": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "right": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "005b": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "standard_led"
+   },
+   "max_dpi": 5000,
+   "name": "Razer Abyssus V2",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single",
+      "blinking"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single",
+      "blinking"
+     ]
+    }
+   }
+  },
+  "005c": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer DeathAdder Elite",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "005e": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 2000,
+   "name": "Razer Abyssus 2000",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "on"
+     ]
+    }
+   }
+  },
+  "0060": {
+   "features": {
+    "dpi": true,
+    "dpi_stages": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Lancehead Tournament Edition",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "left": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "right": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0062": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 7200,
+   "name": "Razer Atheris (Receiver)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 400000
+  },
+  "0064": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Basilisk",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0065": {
+   "features": {
+    "dpi": true,
+    "dpi_stages": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 6400,
+   "name": "Razer Basilisk Essential",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0067": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "naga_trinity",
+    "matrix_led": 5,
+    "zone": "naga_trinity"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Naga Trinity",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "static"
+     ]
+    }
+   }
+  },
+  "0068": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Firefly Hyperflux (2018)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mousemat",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "006a": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 7200,
+   "name": "Razer Abyssus Elite (D.Va Edition)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "006b": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 7200,
+   "name": "Razer Abyssus Essential",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "006c": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Mamba Elite",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "left": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "right": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "006e": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 6400,
+   "name": "Razer DeathAdder Essential",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "breath_single"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "breath_single"
+     ]
+    }
+   }
+  },
+  "006f": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Lancehead Wireless (Receiver)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 31000,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "left": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "right": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0070": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Lancehead Wireless (Wired)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 31000,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "left": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "right": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0071": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 6400,
+   "name": "Razer DeathAdder Essential (White Edition)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "breath_single"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "breath_single"
+     ]
+    }
+   }
+  },
+  "0072": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Mamba Wireless (Receiver)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0073": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Mamba Wireless (Wired)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0077": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Pro Click (Receiver)",
+   "poll_rates": [
+    125,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "0078": {
+   "features": {
+    "dpi": true,
+    "dpi_stages": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Viper",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "007a": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 20000,
+   "name": "Razer Viper Ultimate (Wired)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 59900,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "007b": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 20000,
+   "name": "Razer Viper Ultimate (Wireless)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 59900,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "007c": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 20000,
+   "name": "Razer DeathAdder V2 Pro (Wired)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 59900,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "007d": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 20000,
+   "name": "Razer DeathAdder V2 Pro (Wireless)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 59900,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "007e": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Mouse Dock",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "accessory",
+   "wait_us": 31000,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0080": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Pro Click (Wired)",
+   "poll_rates": [
+    125,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "0083": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 16000,
+   "name": "Razer Basilisk X HyperSpeed",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "0084": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 20000,
+   "name": "Razer DeathAdder V2",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0085": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 20000,
+   "name": "Razer Basilisk V2",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0086": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 20000,
+   "name": "Razer Basilisk Ultimate",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "left": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "right": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0088": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 20000,
+   "name": "Razer Basilisk Ultimate Receiver",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "left": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "right": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "008a": {
+   "features": {
+    "dpi": true,
+    "dpi_stages": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 8500,
+   "name": "Razer Viper Mini",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "008c": {
+   "features": {
+    "dpi": true,
+    "dpi_stages": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 8500,
+   "name": "Razer DeathAdder V2 Mini",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "008d": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 20000,
+   "name": "Razer Naga Left Handed Edition 2020",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "right": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "008f": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 20000,
+   "name": "Razer Naga Pro (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0090": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 20000,
+   "name": "Razer Naga Pro (Wireless)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0091": {
+   "features": {
+    "dpi": true,
+    "dpi_stages": true,
+    "poll": true,
+    "poll2": true,
+    "poll2_double": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 20000,
+   "name": "Razer Viper 8KHz",
+   "poll_rates": [
+    125,
+    500,
+    1000,
+    2000,
+    4000,
+    8000
+   ],
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0094": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 18000,
+   "name": "Razer Orochi V2 (Receiver)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 400000
+  },
+  "0095": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 18000,
+   "name": "Razer Orochi V2 (Bluetooth)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 400000
+  },
+  "0096": {
+   "features": {
+    "dpi": true,
+    "dpi_stages": true,
+    "poll": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 18000,
+   "name": "Razer Naga X",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "left": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0098": {
+   "features": {
+    "dpi": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 6400,
+   "name": "Razer DeathAdder Essential (2021)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "breath_single"
+     ]
+    }
+   }
+  },
+  "0099": {
+   "features": {
+    "dpi": true,
+    "dpi_stages": true,
+    "poll": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 26000,
+   "name": "Razer Basilisk V3",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "009a": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 12000,
+   "name": "Razer Pro Click Mini (Receiver)",
+   "poll_rates": [
+    125,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "009c": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 14000,
+   "name": "Razer DeathAdder V2 X HyperSpeed",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "009e": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true,
+    "poll2": true,
+    "poll2_double": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Viper Mini SE (Wired)",
+   "poll_rates": [
+    125,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 59900
+  },
+  "009f": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true,
+    "poll2": true,
+    "poll2_double": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Viper Mini SE (Wireless)",
+   "poll_rates": [
+    125,
+    500,
+    1000,
+    2000,
+    4000,
+    8000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 59900
+  },
+  "00a1": {
+   "features": {
+    "dpi": true,
+    "dpi_stages": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 8500,
+   "name": "Razer DeathAdder V2 Lite",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "00a3": {
+   "features": {
+    "dpi": true,
+    "dpi_stages": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 8500,
+   "name": "Razer Cobra",
+   "poll_rates": [
+    125,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "00a4": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Mouse Dock Pro",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "accessory",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "00a5": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Viper V2 Pro (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "00a6": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Viper V2 Pro (Wireless)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "00a7": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Naga V2 Pro (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "00a8": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Naga V2 Pro (Wireless)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "00aa": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Basilisk V3 Pro (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00ab": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Basilisk V3 Pro (Wireless)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00af": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Cobra Pro (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00b0": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Cobra Pro (Wireless)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00b2": {
+   "features": {
+    "dpi": true,
+    "dpi_stages": true,
+    "poll": true,
+    "poll2": true,
+    "poll2_double": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer DeathAdder V3",
+   "poll_rates": [
+    125,
+    500,
+    1000,
+    2000,
+    4000,
+    8000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 600
+  },
+  "00b3": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true,
+    "poll2": true,
+    "poll2_double": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer HyperPolling Wireless Dongle",
+   "poll_rates": [
+    125,
+    500,
+    1000,
+    2000,
+    4000,
+    8000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 59900
+  },
+  "00b4": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Naga V2 HyperSpeed (Receiver)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "00b6": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 35000,
+   "name": "Razer DeathAdder V3 Pro (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "00b7": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 35000,
+   "name": "Razer DeathAdder V3 Pro (Wireless)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "00b8": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Viper V3 HyperSpeed",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 59900
+  },
+  "00b9": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "max_dpi": 18000,
+   "name": "Razer Basilisk V3 X HyperSpeed",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "00be": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true,
+    "poll2": true,
+    "poll2_double": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 45000,
+   "name": "Razer DeathAdder V4 Pro (Wired)",
+   "poll_rates": [
+    125,
+    500,
+    1000,
+    2000,
+    4000,
+    8000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "00bf": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true,
+    "poll2": true,
+    "poll2_double": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 45000,
+   "name": "Razer DeathAdder V4 Pro (Wireless)",
+   "poll_rates": [
+    125,
+    500,
+    1000,
+    2000,
+    4000,
+    8000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "00c0": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 35000,
+   "name": "Razer Viper V3 Pro (Wired)",
+   "poll_rates": [
+    125,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "00c1": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true,
+    "poll2": true,
+    "poll2_double": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 35000,
+   "name": "Razer Viper V3 Pro (Wireless)",
+   "poll_rates": [
+    125,
+    500,
+    1000,
+    2000,
+    4000,
+    8000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 59900
+  },
+  "00c2": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 35000,
+   "name": "Razer DeathAdder V3 Pro (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "00c3": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 35000,
+   "name": "Razer DeathAdder V3 Pro (Wireless)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "00c4": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 26000,
+   "name": "Razer DeathAdder V3 HyperSpeed (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "00c5": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 26000,
+   "name": "Razer DeathAdder V3 HyperSpeed (Wireless)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "00c7": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Pro Click V2 Vertical Edition (Wired)",
+   "poll_rates": [
+    125,
+    250,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00c8": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Pro Click V2 Vertical Edition (Wireless)",
+   "poll_rates": [
+    125,
+    250,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00cb": {
+   "features": {
+    "dpi": true,
+    "dpi_stages": true,
+    "poll": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 35000,
+   "name": "Razer Basilisk V3 35K",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00cc": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 35000,
+   "name": "Razer Basilisk V3 Pro 35K (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00cd": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 35000,
+   "name": "Razer Basilisk V3 Pro 35K (Wireless)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00d0": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Pro Click V2 (Wired)",
+   "poll_rates": [
+    125,
+    250,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00d1": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 30000,
+   "name": "Razer Pro Click V2 (Wireless)",
+   "poll_rates": [
+    125,
+    250,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00d3": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 18000,
+   "name": "Razer Basilisk Mobile (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static"
+     ]
+    }
+   }
+  },
+  "00d4": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 18000,
+   "name": "Razer Basilisk Mobile (Receiver)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static"
+     ]
+    }
+   }
+  },
+  "00d6": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 35000,
+   "name": "Razer Basilisk V3 Pro 35K Phantom Green Edition (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00d7": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 35000,
+   "name": "Razer Basilisk V3 Pro 35K Phantom Green Edition (Wireless)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "scroll": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00da": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 26000,
+   "name": "Razer Cobra HyperSpeed",
+   "poll_rates": [
+    125,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00db": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "max_dpi": 26000,
+   "name": "Razer Cobra HyperSpeed Receiver",
+   "poll_rates": [
+    125,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000,
+   "zones": {
+    "logo": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave"
+     ]
+    }
+   }
+  },
+  "00de": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 35000,
+   "name": "Razer Viper V3 Pro SE (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 31000
+  },
+  "00df": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "dpi": true,
+    "dpi_stages": true,
+    "idle": true,
+    "low_battery": true,
+    "poll": true
+   },
+   "iface": 0,
+   "lighting": {
+    "matrix": "mouse_extended",
+    "matrix_led": 5,
+    "zone": "mouse_extended"
+   },
+   "max_dpi": 35000,
+   "name": "Razer Viper V3 Pro SE (Wireless)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "mouse",
+   "wait_us": 59900
+  },
+  "010d": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 4,
+    "zone": "standard_led"
+   },
+   "name": "Razer BlackWidow Ultimate 2012",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600
+  },
+  "010e": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 4,
+    "zone": "standard_led"
+   },
+   "name": "Razer BlackWidow Stealth Edition",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600
+  },
+  "010f": {
+   "iface": 2,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "standard_led"
+   },
+   "name": "Razer Anansi",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum"
+     ]
+    }
+   }
+  },
+  "0111": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_led"
+   },
+   "name": "Razer Nostromo",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keypad",
+   "wait_us": 600
+  },
+  "0113": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "standard_led"
+   },
+   "name": "Razer Orbweaver",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keypad",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none"
+     ]
+    }
+   }
+  },
+  "0118": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "standard_led"
+   },
+   "name": "Razer DeathStalker/DeathStalker Essential",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600
+  },
+  "011a": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 4,
+    "zone": "standard_led"
+   },
+   "name": "Razer BlackWidow Ultimate 2013",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600
+  },
+  "011b": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 4,
+    "zone": "standard_led"
+   },
+   "name": "Razer BlackWidow (Classic)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600
+  },
+  "011c": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_led",
+    "matrix_led": 4,
+    "zone": "standard_led"
+   },
+   "name": "Razer BlackWidow Tournament Edition 2014",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600
+  },
+  "0201": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "matrix_led": 5,
+    "zone": "standard_led"
+   },
+   "name": "Razer Tartarus",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keypad",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "static"
+     ]
+    }
+   }
+  },
+  "0202": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_led",
+    "matrix_led": 5,
+    "zone": "standard_led"
+   },
+   "name": "Razer DeathStalker Expert",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600
+  },
+  "0203": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer BlackWidow Chroma",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0204": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer DeathStalker Chroma",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0205": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Stealth",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0207": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_led"
+   },
+   "name": "Razer Orbweaver Chroma",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keypad",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0208": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_led"
+   },
+   "name": "Razer Tartarus Chroma",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keypad",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0209": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer BlackWidow Tournament Edition Chroma",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "020f": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade (QHD)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0210": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Pro (Late 2016)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0211": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer BlackWidow Chroma (Overwatch)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0214": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer BlackWidow Ultimate 2016",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0215": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_matrix",
+    "matrix_led": 0,
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Core",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "accessory",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0216": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer BlackWidow X Chroma",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0217": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer BlackWidow X Ultimate",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "021a": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer BlackWidow X Tournament Edition Chroma",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "021e": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Ornata Chroma",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    0,
+    1
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "021f": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Ornata",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    0,
+    1
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "reactive",
+      "wave",
+      "breath_single",
+      "starlight_single",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0220": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Stealth (Late 2016)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0221": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Black Widow Chroma V2",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0224": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade (Late 2016)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0225": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Pro (2017)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0226": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Huntsman Elite",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    0,
+    1
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0227": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Huntsman",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    0,
+    1
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0228": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow Elite",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    0,
+    1
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "022a": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Cynosa Chroma",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    0,
+    1
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "022b": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Tartarus V2",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keypad",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "022c": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Cynosa Chroma Pro",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    0,
+    1
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random"
+     ]
+    }
+   }
+  },
+  "022d": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Stealth (Mid 2017)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "022f": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Pro FullHD (2017)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0232": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Stealth (Late 2017)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0233": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 15 (2018)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0234": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Pro 17 (2019)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0235": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "standard_led"
+   },
+   "name": "Razer BlackWidow Lite",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "breath_single"
+     ]
+    }
+   }
+  },
+  "0237": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow Essential",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random"
+     ]
+    }
+   }
+  },
+  "0239": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Stealth (2019)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "023a": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 15 (2019) Advanced",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "023b": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 15 (2018) Base Model",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "023f": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Cynosa Lite",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0240": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 15 (2018) Mercury",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0241": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow 2019",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0243": {
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Huntsman Tournament Edition",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    0,
+    1
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0244": {
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Tartarus Pro",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keypad",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0245": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 15 (Mid 2019) Mercury",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0246": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 15 (Mid 2019) Base Model",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "024a": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Stealth (Late 2019)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "024b": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Advanced (Late 2019)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "024c": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Pro (Late 2019)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "024d": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 15 Studio Edition (2019)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "024e": {
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V3",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0252": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Stealth (Early 2020)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0253": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 15 Advanced (2020)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0255": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Base (Early 2020)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0256": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Pro (Early 2020)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0257": {
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Huntsman Mini",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    0,
+    1
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0258": {
+   "features": {
+    "battery": true,
+    "charging": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V3 Mini HyperSpeed (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0259": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Stealth (Late 2020)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "025a": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "low_battery": true
+   },
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V3 Pro Wired",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "025c": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "low_battery": true
+   },
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V3 Pro 2.4 Ghz Wireless",
+   "protocol": "razer",
+   "tid": 159,
+   "type": "keyboard",
+   "wait_us": 4900,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random"
+     ]
+    }
+   }
+  },
+  "025d": {
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Ornata V2",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "025e": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Cynosa V2",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    0,
+    1
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0266": {
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Huntsman V2 Analog",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0268": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Late 2020 Base",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0269": {
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Huntsman Mini JP",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    0,
+    1
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "026a": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Book (2020)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "026b": {
+   "features": {
+    "poll": true,
+    "poll2": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Huntsman V2 Tenkeyless",
+   "poll_rates": [
+    125,
+    250,
+    500,
+    1000,
+    2000,
+    4000,
+    8000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "026c": {
+   "features": {
+    "poll": true,
+    "poll2": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Huntsman V2",
+   "poll_rates": [
+    125,
+    250,
+    500,
+    1000,
+    2000,
+    4000,
+    8000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "026d": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 15 Advanced (Early 2021)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "026e": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 17 Pro (Early 2021)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "026f": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade Base (Early 2021)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0270": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 14 (2021)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0271": {
+   "features": {
+    "battery": true,
+    "charging": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V3 Mini HyperSpeed (Wireless)",
+   "protocol": "razer",
+   "tid": 159,
+   "type": "keyboard",
+   "wait_us": 4900,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0276": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 15 Advanced (Mid 2021)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0279": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 17 Pro (Mid 2021)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "027a": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Blade Base (Early 2022)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0282": {
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Huntsman Mini Analog",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0287": {
+   "features": {
+    "poll": true,
+    "poll2": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V4",
+   "poll_rates": [
+    125,
+    250,
+    500,
+    1000,
+    2000,
+    4000,
+    8000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "wheel",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "028a": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 15 Advanced (Early 2022)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "028b": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 17 (2022)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "028c": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 14 (2022)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "028d": {
+   "features": {
+    "poll": true,
+    "poll2": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V4 Pro",
+   "poll_rates": [
+    125,
+    250,
+    500,
+    1000,
+    2000,
+    4000,
+    8000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "wheel",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "028f": {
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Ornata V3 (Alternate)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0290": {
+   "features": {
+    "battery": true,
+    "charging": true
+   },
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer DeathStalker V2 Pro (Wireless)",
+   "protocol": "razer",
+   "tid": 159,
+   "type": "keyboard",
+   "wait_us": 4900,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0292": {
+   "features": {
+    "battery": true,
+    "charging": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer DeathStalker V2 Pro (Wired)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0293": {
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V4 X",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "wheel",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0294": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Ornata V3 X",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single",
+      "breath_dual"
+     ]
+    }
+   }
+  },
+  "0295": {
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer DeathStalker V2",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0296": {
+   "features": {
+    "battery": true,
+    "charging": true
+   },
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer DeathStalker V2 Pro TKL (Wireless)",
+   "protocol": "razer",
+   "tid": 159,
+   "type": "keyboard",
+   "wait_us": 4900,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0298": {
+   "features": {
+    "battery": true,
+    "charging": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer DeathStalker V2 Pro TKL (Wired)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "029d": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 14 (2023)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "029e": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 15 (2023)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "029f": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 16 (2023)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02a0": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 18 (2023)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02a1": {
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Ornata V3",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "02a2": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Ornata V3 X (Alternate)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single",
+      "breath_dual"
+     ]
+    }
+   }
+  },
+  "02a3": {
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Ornata V3 Tenkeyless",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02a5": {
+   "features": {
+    "poll": true,
+    "poll2": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V4 75%",
+   "poll_rates": [
+    125,
+    250,
+    500,
+    1000,
+    2000,
+    4000,
+    8000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "wheel",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02a6": {
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Huntsman V3 Pro",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random"
+     ]
+    }
+   }
+  },
+  "02a7": {
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Huntsman V3 Pro TKL",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random"
+     ]
+    }
+   }
+  },
+  "02b0": {
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Huntsman V3 Pro Mini",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    0,
+    1
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random"
+     ]
+    }
+   }
+  },
+  "02b6": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 14 (2024)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02b8": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 18 (2024)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02b9": {
+   "features": {
+    "battery": true,
+    "charging": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V4 Mini HyperSpeed (Wired)",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02ba": {
+   "features": {
+    "battery": true,
+    "charging": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V4 Mini HyperSpeed (Wireless)",
+   "protocol": "razer",
+   "tid": 159,
+   "type": "keyboard",
+   "wait_us": 4900,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02c5": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 14 (2025)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02c6": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 16 (2025)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02c7": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 18 (2025)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02cd": {
+   "features": {
+    "battery": true,
+    "charging": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Joro",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02cf": {
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer Huntsman V3 Pro 8KHz",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random"
+     ]
+    }
+   }
+  },
+  "02d5": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "poll": true,
+    "poll2": true
+   },
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V4 Tenkeyless HyperSpeed (Wireless)",
+   "poll_rates": [
+    125,
+    250,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 159,
+   "type": "keyboard",
+   "wait_us": 4900,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02d7": {
+   "features": {
+    "battery": true,
+    "charging": true,
+    "poll": true,
+    "poll2": true
+   },
+   "iface": 3,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V4 Tenkeyless HyperSpeed (Wired)",
+   "poll_rates": [
+    125,
+    250,
+    500,
+    1000
+   ],
+   "protocol": "razer",
+   "tid": 31,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02e0": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 16 (2026)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "02e1": {
+   "iface": 1,
+   "lighting": {
+    "brightness": "blade",
+    "matrix": "standard_matrix",
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Blade 18 (2026)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "keyboard",
+   "wait_us": 600,
+   "zones": {
+    "logo": {
+     "brightness": false,
+     "effects": [
+      "active"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0501": {
+   "name": "Razer Kraken 7.1",
+   "protocol": "kraken",
+   "type": "headset",
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static"
+     ]
+    }
+   }
+  },
+  "0504": {
+   "name": "Razer Kraken 7.1 Chroma",
+   "protocol": "kraken",
+   "type": "headset",
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single"
+     ]
+    }
+   }
+  },
+  "0506": {
+   "name": "Razer Kraken 7.1 (Alternate)",
+   "protocol": "kraken",
+   "type": "headset",
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static"
+     ]
+    }
+   }
+  },
+  "0510": {
+   "name": "Razer Kraken 7.1 V2",
+   "protocol": "kraken",
+   "type": "headset",
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single",
+      "breath_dual",
+      "breath_triple"
+     ]
+    }
+   }
+  },
+  "0517": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Nommo Chroma (Speakers)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "accessory",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0518": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Nommo Pro (Speakers)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "accessory",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0520": {
+   "name": "Razer Kraken Tournament Edition",
+   "protocol": "kraken",
+   "type": "headset",
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single",
+      "breath_dual",
+      "breath_triple"
+     ]
+    }
+   }
+  },
+  "0527": {
+   "name": "Razer Kraken Ultimate",
+   "protocol": "kraken",
+   "type": "headset",
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single",
+      "breath_dual",
+      "breath_triple"
+     ]
+    }
+   }
+  },
+  "0560": {
+   "name": "Razer Kraken Kitty V2",
+   "protocol": "kraken",
+   "type": "headset",
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "breath_single",
+      "breath_dual",
+      "breath_triple"
+     ]
+    }
+   }
+  },
+  "0a24": {
+   "iface": 2,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 5,
+    "zone": "extended"
+   },
+   "name": "Razer BlackWidow V3 TK",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "keyboard",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random",
+      "ripple"
+     ]
+    }
+   }
+  },
+  "0c00": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_matrix",
+    "matrix_led": 0,
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Firefly (2013)",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "mousemat",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0c01": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Goliathus (2018)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mousemat",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0c02": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Goliathus Extended (2018)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mousemat",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0c04": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Firefly V2",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mousemat",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0c05": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Strider Chroma",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mousemat",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0c06": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Goliathus Chroma 3XL",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mousemat",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0c08": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Firefly V2 Pro",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "mousemat",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0f07": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "standard",
+    "matrix": "standard_matrix",
+    "matrix_led": 0,
+    "zone": "standard_matrix"
+   },
+   "name": "Razer Chroma Mug Holder",
+   "protocol": "razer",
+   "tid": 255,
+   "type": "accessory",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "blinking"
+     ]
+    }
+   }
+  },
+  "0f08": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Base Station Chroma (Headphone Stand)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "accessory",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0f09": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Chroma Hardware Development Kit (HDK)",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "accessory",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0f0d": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Laptop Stand Chroma",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "accessory",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0f12": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Raptor 27",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "accessory",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0f13": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Lian Li O11 Dynamic",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "accessory",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0f17": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Tomahawk ATX",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "accessory",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0f19": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Kraken Kitty Edition",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "headset",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random"
+     ]
+    }
+   }
+  },
+  "0f1a": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Core X Chroma",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "accessory",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": false,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "reactive",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random"
+     ]
+    }
+   }
+  },
+  "0f1d": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Mouse Bungee V3 Chroma",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "accessory",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0f1f": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Chroma Addressable RGB Controller",
+   "protocol": "razer",
+   "tid": 63,
+   "type": "accessory",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0f20": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Base Station V2 Chroma",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "accessory",
+   "wait_us": 600,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0f21": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Thunderbolt 4 Dock Chroma",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "accessory",
+   "wait_us": 31000,
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random",
+      "starlight_single",
+      "starlight_dual",
+      "starlight_random"
+     ]
+    }
+   }
+  },
+  "0f26": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Charging Pad Chroma",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "accessory",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "charging": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "fast_charging": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "fully_charged": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    },
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  },
+  "0f2b": {
+   "iface": 0,
+   "lighting": {
+    "brightness": "extended",
+    "matrix": "extended",
+    "matrix_led": 0,
+    "zone": "extended"
+   },
+   "name": "Razer Laptop Stand Chroma V2",
+   "protocol": "razer",
+   "tid": 31,
+   "type": "accessory",
+   "wait_us": 600,
+   "wave_dirs": [
+    1,
+    2
+   ],
+   "zones": {
+    "matrix": {
+     "brightness": true,
+     "effects": [
+      "none",
+      "static",
+      "spectrum",
+      "wave",
+      "breath_single",
+      "breath_dual",
+      "breath_random"
+     ]
+    }
+   }
+  }
+ },
+ "source": "openrazer"
+}

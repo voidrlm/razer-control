@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Razer Control
+Comment=Configure Razer mice, keyboards and accessories: DPI, buttons, lighting, battery
+Exec=razer-control
+Icon=input-mouse
+Terminal=false
+Categories=Settings;HardwareSettings;
+Keywords=razer;mouse;keyboard;dpi;rgb;chroma;battery;lighting;
+StartupNotify=true

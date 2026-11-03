@@ -1,0 +1,4 @@
+# Razer Control: give the logged-in desktop user access to Razer HID devices,
+# so the app can talk to the mouse without root or a kernel module.
+# Must sort before 73-seat-late.rules for the uaccess tag to take effect.
+SUBSYSTEM=="hidraw", ATTRS{idVendor}=="1532", TAG+="uaccess"
