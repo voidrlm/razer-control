@@ -17,7 +17,8 @@ computers and when the app isn't running.
 | **Lighting** | Per-zone effects (logo, scroll wheel, underglow, keyboard, dock…): static, breathing (1/2/random colors), spectrum, wave, wheel, reactive, starlight, off, plus brightness |
 | **Power** | Sleep timeout and low-battery warning threshold for wireless devices |
 
-There's also a full command-line tool, `razer-control-cli`.
+There's also a full command-line tool, `razer-control-cli`, and on GNOME a top-bar battery indicator
+(see [GNOME top-bar battery](#gnome-top-bar-battery)).
 
 ## Supported devices
 
@@ -75,7 +76,8 @@ The installer:
 1. Checks the dependencies above and tells you what's missing.
 2. Links `razer-control` and `razer-control-cli` into `~/.local/bin`.
 3. Adds **Razer Control** to your app grid.
-4. Installs a udev rule, `/etc/udev/rules.d/70-razer-control.rules`, that gives the logged-in user access to
+4. On GNOME, installs and enables the **Razer Battery** top-bar extension.
+5. Installs a udev rule, `/etc/udev/rules.d/70-razer-control.rules`, that gives the logged-in user access to
    Razer devices. This is the only step that needs your admin password, and it's asked for once.
 
 Then **unplug and replug your Razer device (or its wireless dongle) once** and open **Razer Control** from the
@@ -133,6 +135,21 @@ razer-control-cli button 0x05 default
 Use `-d` to pick a device by index (from `devices`), USB product ID (`007b`) or type (`mouse`, `keyboard`,
 `keypad`, `mousemat`, `accessory`).
 
+## GNOME top-bar battery
+
+On GNOME Shell 45 or newer, `install.sh` also installs the **Razer Battery** extension
+(`gnome-extension/razer-battery@arjun`). While a wireless Razer device's dongle or cable is plugged in, the
+extension shows a pill in the top bar with a ring and the battery percentage. The ring turns yellow at 40% and
+red at 20%, and a charging icon appears while the device charges. If the device is asleep, the pill keeps its
+last reading and dims it. Click the pill to see each device's name and state, or to open Razer Control.
+
+The pill appears or disappears within a couple of seconds of plugging or unplugging, and the battery is read
+again every 60 seconds. The extension reads the battery with `gnome-extension/razer-battery@arjun/battery.py`,
+which uses the same `razer_control` code as the app.
+
+On Wayland, GNOME only loads a newly installed extension at login, so log out and back in once after the first
+install. Later updates through `git pull` also take effect at your next login.
+
 ## Troubleshooting
 
 **"Permission Needed" / "No permission for /dev/hidrawN"**: the udev rule isn't active yet. Run
@@ -155,7 +172,7 @@ Keyboard → Custom Shortcuts.
 ## Uninstall
 
 ```sh
-./uninstall.sh          # removes launchers, app-grid entry and udev rule
+./uninstall.sh          # removes launchers, app-grid entry, GNOME extension and udev rule
 ./uninstall.sh --purge  # also deletes ~/.config/razer-control
 ```
 
@@ -177,6 +194,8 @@ razer_control/
   buttons_ui.py   Buttons tab and remap dialog
   cli.py          command-line tool
   devices.json    generated device database
+gnome-extension/
+  razer-battery@arjun/   GNOME Shell top-bar battery indicator (extension.js + battery.py helper)
 tools/
   gen_devices.py  rebuilds devices.json from an openrazer checkout
 ```

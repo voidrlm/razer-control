@@ -36,6 +36,27 @@ sed "s|^Exec=.*|Exec=$HOME/.local/bin/razer-control|" "$here/$APP_ID.desktop" > 
 update-desktop-database ~/.local/share/applications 2>/dev/null || true
 echo "Installed launcher (~/.local/bin/razer-control) and app-grid entry."
 
+# ---- GNOME top-bar battery indicator ----------------------------------------
+EXT_UUID=razer-battery@arjun
+if command -v gnome-shell >/dev/null; then
+    mkdir -p ~/.local/share/gnome-shell/extensions
+    ln -sfn "$here/gnome-extension/$EXT_UUID" ~/.local/share/gnome-shell/extensions/$EXT_UUID
+    if ! gnome-extensions enable "$EXT_UUID" 2>/dev/null; then
+        # GNOME hasn't seen it yet (new extensions load at the next login): enable it for then.
+        python3 - "$EXT_UUID" <<'PY2' || true
+import ast, subprocess, sys
+cur = subprocess.run(["gsettings", "get", "org.gnome.shell", "enabled-extensions"], capture_output=True, text=True).stdout
+cur = cur.strip().removeprefix("@as ")
+exts = ast.literal_eval(cur) if cur else []
+if sys.argv[1] not in exts:
+    subprocess.run(["gsettings", "set", "org.gnome.shell", "enabled-extensions", str(exts + [sys.argv[1]])], check=True)
+PY2
+        echo "Installed the Razer Battery top-bar extension; it appears after you log out and back in."
+    else
+        echo "Installed and enabled the Razer Battery top-bar extension."
+    fi
+fi
+
 # ---- udev rule (device access without root) ---------------------------------
 rule=/etc/udev/rules.d/70-razer-control.rules
 if [ ! -f "$rule" ] || ! cmp -s "$here/70-razer-control.rules" "$rule"; then
