@@ -1,0 +1,15 @@
+/* Same pill as Now Playing / Audio Battery. */
+.panel-button.rzbat-panel { -natural-hpadding: 3px; -minimum-hpadding: 2px; }
+.rzbat-pill {
+    border-radius: 7px;
+    padding: 0 7px 0 5px;
+    spacing: 4px;
+    background-color: rgba(255,255,255,0.12);
+}
+.rzbat-panel:hover .rzbat-pill { background-color: rgba(255,255,255,0.18); }
+.rzbat-pct { font-weight: bold; font-feature-settings: "tnum"; }
+
+.rzbat-menu { min-width: 240px; }
+.rzbat-device { spacing: 12px; padding: 4px 0; }
+.rzbat-name { font-weight: bold; }
+.rzbat-sub { font-size: 0.9em; color: rgba(255,255,255,0.7); }
