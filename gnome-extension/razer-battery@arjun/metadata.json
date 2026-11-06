@@ -3,5 +3,13 @@
   "name": "Razer Battery",
   "url": "https://github.com/voidrlm/razer-control",
   "description": "Battery level of connected Razer wireless devices in a top-bar pill, read through Razer Control.",
-  "shell-version": ["45", "46", "47", "48", "49", "50"]
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
+  ]
 }
