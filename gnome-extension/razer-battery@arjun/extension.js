@@ -226,7 +226,7 @@ export default class RazerBattery extends Extension {
             const item = new PopupMenu.PopupBaseMenuItem({reactive: false, can_focus: false});
             const row = new St.BoxLayout({x_expand: true, style_class: 'rzbat-device'});
             row.add_child(batteryRing(d, 44, 3.5, 20));
-            const text = new St.BoxLayout({vertical: true, y_align: Clutter.ActorAlign.CENTER});
+            const text = new St.BoxLayout({orientation: Clutter.Orientation.VERTICAL, y_align: Clutter.ActorAlign.CENTER});
             text.add_child(new St.Label({text: d.name.replace(/^Razer /, ''), style_class: 'rzbat-name'}));
             const state = d.charging ? 'charging' : d.asleep ? 'asleep · last reading' : null;
             text.add_child(new St.Label({
